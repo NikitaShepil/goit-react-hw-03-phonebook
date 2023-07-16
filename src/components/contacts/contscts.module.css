@@ -1,0 +1,21 @@
+.contacts_css {
+    list-style: none;
+    margin: 0;
+    padding-left: 15px;
+}
+
+.contacts_input {
+    margin-left: 15px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.contacts_box {
+    border: solid 1px;
+    width: 300px; 
+    margin-left: 10px;
+}
+
+.contact_item {
+    padding-bottom: 20px;
+}
